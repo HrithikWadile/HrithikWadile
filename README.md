@@ -24,7 +24,7 @@ NumPy · Pandas · Matplotlib · Seaborn · Jupyter Notebook · SQL · Power BI 
 
 React · JavaScript · Flask · Python (Backend) · MySQL · TailwindCSS
 
-* 🌍  I'm based in Germany
+* 🌍  I'm based in Germany ||
 MY PORTFOLIO- https://hrithik-wadile-myportfolio.vercel.app/
 
 <p align="left">
